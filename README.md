@@ -17,7 +17,7 @@ DB_PASSWORD=<br>
 Next up, we need to create the database which will be grabbed from the ```DB_DATABASE``` environment variable.
 ```
 mysql;
-create database onlinesupport;
+create database todolist;
 exit;
 ```
 
